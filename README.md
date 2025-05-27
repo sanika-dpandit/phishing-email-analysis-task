@@ -44,9 +44,7 @@ Email client (for viewing full headers)
 Browser (for URL inspection via hover)
 
 
-
- Conclusion
-
+Conclusion
 This email is a classic phishing attempt designed to steal user credentials or spread malware. The report documents:
 
  Technical evidence (header failures)
@@ -54,4 +52,12 @@ This email is a classic phishing attempt designed to steal user credentials or s
  Malicious indicators (URL, file type, spoofed domain)
 
 Do not click any links or download attachments from suspicious emails. Report them immediately.
+
+Files included 
+Phishing_email_task_ss.pdf – Contains screenshots of the phishing email and analysis highlights.
+Report_sanika.pdf – Detailed phishing email analysis report authored by Sanika.
+email_actual.txt – Raw text version of the phishing email's body content.
+email_header.txt – Extracted email header used for technical analysis of spoofing and authentication.
+README.md – Overview of the task, tools used, analysis summary, and conclusions.
+
 
